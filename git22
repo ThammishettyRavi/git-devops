@@ -1,0 +1,15 @@
+git init
+git status
+git add .
+git commit -m""[Dmessage"
+git remote add origin url[D[D[Drepository url
+git push -u origin master
+if any changes first we do git pull after git push if not you will get conflicts.
+second
+[A[A[A[A[A[A[A[A
+[Afirst
+[A[C[C[C[C[C git init[B[B[B[B[B[B[B[D[D[D[D[D[D[D[D git clone repository url
+touch files[D[D[D[D[D[D[D[D[D[D[D[D[D[Dmkdir fir folders or directories[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[o[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+touch files [D[D[D[D[D[Dfor [files creating
+cat fot creating files and data at the same time.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[r[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+git status, git add . ,git commit -m ""[Dmessage" ,git push, if any changes in git hub reposutory intially weneed [D[D[D[D[D need to do [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[i[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C git pull and at end we can proceed git push.
