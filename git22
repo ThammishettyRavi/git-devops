@@ -13,3 +13,14 @@ touch files[D[D[D[D[D[D[D[D[D[D[D[D[D[Dmkdir fir folders or direct
 touch files [D[D[D[D[D[Dfor [files creating
 cat fot creating files and data at the same time.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[r[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 git status, git add . ,git commit -m ""[Dmessage" ,git push, if any changes in git hub reposutory intially weneed [D[D[D[D[D need to do [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[i[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C git pull and at end we can proceed git push.
+git brnach branchname
+git checkout branchname
+git[A[A[A[B[C[C[C[Can[B[B[D[D[D[D[D checkout -b branchname - to create branchname and switch to that branch
+git branch - to get local branches
+git branch -r - to see remote branches
+git branch -a - to get all local and remote braanches[D[D[D[D[[[C[C[C[Cnches
+git merge branchname - to merge two branches main to dev, you can merge from main to dev means you are in main[D[D[D[D[D[D[D[D[C[D[D[D[D[D[D[D[Dfirst you are in main then merge to dev
+git branch -D branch name
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C - you delete [D[D[D[D[D[D[Dcan delete local branches
+git push --delete origin branch name[D[D[D[[C[C[Cnamegit cherry-pick commit id - you can move commit from one branach to another branch
+git merge -X their - we can remove conflicts from the code
